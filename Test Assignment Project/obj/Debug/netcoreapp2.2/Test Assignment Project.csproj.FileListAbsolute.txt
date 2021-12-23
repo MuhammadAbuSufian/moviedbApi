@@ -1,0 +1,17 @@
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\obj\Debug\netcoreapp2.2\Test Assignment Project.AssemblyInfoInputs.cache
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\obj\Debug\netcoreapp2.2\Test Assignment Project.AssemblyInfo.cs
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\obj\Debug\netcoreapp2.2\Test Assignment Project.csproj.CoreCompileInputs.cache
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\obj\Debug\netcoreapp2.2\Test Assignment Project.RazorAssemblyInfo.cache
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\obj\Debug\netcoreapp2.2\Test Assignment Project.RazorAssemblyInfo.cs
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\bin\Debug\netcoreapp2.2\Test Assignment Project.deps.json
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\bin\Debug\netcoreapp2.2\Test Assignment Project.runtimeconfig.json
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\bin\Debug\netcoreapp2.2\Test Assignment Project.runtimeconfig.dev.json
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\bin\Debug\netcoreapp2.2\Test Assignment Project.dll
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\bin\Debug\netcoreapp2.2\Test Assignment Project.pdb
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\obj\Debug\netcoreapp2.2\Test Assignment Project.RazorTargetAssemblyInfo.cache
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\obj\Debug\netcoreapp2.2\Test Assignment Project.dll
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\obj\Debug\netcoreapp2.2\Test Assignment Project.pdb
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\obj\Debug\netcoreapp2.2\Test Assignment Project.genruntimeconfig.cache
+C:\Users\asheq\source\repos\Test Assignment Project\Test Assignment Project\obj\Debug\netcoreapp2.2\Test Assignment Project.csprojAssemblyReference.cache
